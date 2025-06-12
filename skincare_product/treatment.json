@@ -1,0 +1,605 @@
+[
+ {
+   "Id": 1,
+   "Label": "Treatment/Acne",
+   "Brand": "COSRX",
+   "Product Name": "Acne Pimple Master Patch",
+   "Price": "Rp59,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/acne-pimple-patch/15018-acne-pimple-master-patch"
+ },
+ {
+   "Id": 2,
+   "Label": "Treatment/Acne",
+   "Brand": "DERMA ANGEL",
+   "Product Name": "Acne Patch Mix 18",
+   "Price": "Rp46,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/acne-blemish-treatments/10021-acne-patch-mix-18"
+ },
+ {
+   "Id": 3,
+   "Label": "Treatment/Acne",
+   "Brand": "EMINA",
+   "Product Name": "Ms Pimple Acne Solution Spot Gel",
+   "Price": "Rp37,500",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/acne-treatment-sealing-gel-cream/10872-ms-pimple-acne-solution-spot-gel"
+ },
+ {
+   "Id": 4,
+   "Label": "Treatment/Toner",
+   "Brand": "SKIN1004",
+   "Product Name": "Madagascar Centella Toning Toner",
+   "Price": "Rp247,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/toner/43308-madagascar-centella-toning-toner?size=30_ml"
+ },
+ {
+   "Id": 5,
+   "Label": "Treatment/Toner",
+   "Brand": "AVOSKIN",
+   "Product Name": "YOUR SKIN BAE SERIES Toner Salicylic Acid 1% + Zinc + Tea Tree Water",
+   "Price": "Rp165,400",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/toner/52499-your-skin-bae-series-toner-salicylic-acid-1-zinc-tea-tree-water"
+ },
+ {
+   "Id": 6,
+   "Label": "Treatment/Toner",
+   "Brand": "COSRX",
+   "Product Name": "Centella Water Alcohol-Free Toner",
+   "Price": "Rp215,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/toner/10271-centella-water-alcohol-free-toner"
+ },
+ {
+   "Id": 7,
+   "Label": "Treatment/Essence",
+   "Brand": "I'M FROM",
+   "Product Name": "Mugwort Essence",
+   "Price": "Rp149,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/essence/28392-mugwort-essence?size=30_ml"
+ },
+ {
+   "Id": 8,
+   "Label": "Treatment/Essence",
+   "Brand": "LACOCO",
+   "Product Name": "5% Bakuchiol Essence",
+   "Price": "Rp275,500",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/essence/59572-5-bakuchiol-essence"
+ },
+ {
+   "Id": 9,
+   "Label": "Treatment/Essence",
+   "Brand": "COSRX",
+   "Product Name": "Two in One Poreless Power Liquid",
+   "Price": "Rp315,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/essence/12514-two-in-one-poreless-power-liquid"
+ },
+ {
+   "Id": 10,
+   "Label": "Treatment/Serum",
+   "Brand": "WHITELAB",
+   "Product Name": "Acne Calming Serum",
+   "Price": "Rp88,500",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/face-serum/53877-whitelab-acne-calming-serum"
+ },
+ {
+   "Id": 11,
+   "Label": "Treatment/Serum",
+   "Brand": "AVOSKIN",
+   "Product Name": "YOUR SKIN BAE SERIES ByeAcne ByeBlackhead Salicylic Acid 2% + Zinc",
+   "Price": "Rp154,300",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/face-serum/52502-your-skin-bae-series-byeacne-byeblackhead-salicylic-acid-2-zinc"
+ },
+ {
+   "Id": 12,
+   "Label": "Treatment/Serum",
+   "Brand": "ROJUKISS",
+   "Product Name": "Tea Tree Bija Pro Acne Serum",
+   "Price": "Rp23,000",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/face-serum/53764-tea-tree-bija-pro-acne-serum"
+ },
+ {
+   "Id": 13,
+   "Label": "Face Mask",
+   "Brand": "NPURE",
+   "Product Name": "Cica Chocomint Clay Mask",
+   "Price": "Rp132,090",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/sheet-mask/53997-cica-chocomint-clay-mask"
+ },
+ {
+   "Id": 14,
+   "Label": "Face Mask",
+   "Brand": "MEDIHEAL",
+   "Product Name": "Teatree Essential Mask",
+   "Price": "Rp29,900",
+   "Tags": "Acne",
+   "Links": "https://www.sociolla.com/sheet-mask/9039-teatree-care-solution-essential-mask-ex"
+ },
+ {
+   "Id": 15,
+   "Label": "Treatment/Toner",
+   "Brand": "COSRX",
+   "Product Name": "One Step Original Clear Pads",
+   "Price": "Rp299,900",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/toner/9208-one-step-original-clear-pads"
+ },
+ {
+   "Id": 16,
+   "Label": "Treatment/Toner",
+   "Brand": "COSRX",
+   "Product Name": "Refresh AHA/BHA Vitamin C Daily Toner 150 ml",
+   "Price": "Rp245,000",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/toner/25883-refresh-aha-bha-vitamin-c-daily-toner?size=150_ml"
+ },
+ {
+   "Id": 17,
+   "Label": "Treatment/Toner",
+   "Brand": "AVOSKIN",
+   "Product Name": "Miraculous Refining Toner",
+   "Price": "Rp101.370",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/toner/10422-miraculous-refining-toner"
+ },
+ {
+   "Id": 18,
+   "Label": "Treatment/Essence",
+   "Brand": "Teratu Beauty",
+   "Product Name": "PHA Gentle Exfoliating Toner",
+   "Price": "Rp65.000",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/toner/79738-pha-gentle-exfoliating-toner"
+ },
+ {
+   "Id": 19,
+   "Label": "Treatment/Serum",
+   "Brand": "COSRX",
+   "Product Name": "Refresh AHA BHA Vitamin C Booster Serum",
+   "Price": "Rp297.500",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/face-serum/63361-refresh-aha-bha-vitamin-c-booster-serum"
+ },
+ {
+   "Id": 20,
+   "Label": "Treatment/Serum",
+   "Brand": "VOTRE PEAU",
+   "Product Name": "Serum Retinol Concentrate",
+   "Price": "Rp215,000",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/face-serum/60865-serum-retinol-concentrate"
+ },
+ {
+   "Id": 21,
+   "Label": "Face Mask",
+   "Brand": "SCARLETT WHITENING",
+   "Product Name": "Scarlett Whitening Herbalism Mugwort Mask",
+   "Price": "Rp82,500",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/clay-mask/61367-herbalism-mugwort-mask"
+ },
+ {
+   "Id": 22,
+   "Label": "Face Mask",
+   "Brand": "MISSHA",
+   "Product Name": "Airy Fit Sheet Mask Honey",
+   "Price": "Rp34,500",
+   "Tags": "Blackheads",
+   "Links": "https://www.sociolla.com/sheet-mask/10566-airy-fit-sheet-mask-honey"
+ },
+ {
+   "Id": 23,
+   "Label": "Treatment/Toner",
+   "Brand": "COSRX",
+   "Product Name": "AHA/BHA Clarifying Treatment Toner",
+   "Price": "Rp200,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/toner/9207-aha-bha-clarifying-treatment-toner"
+ },
+ {
+   "Id": 24,
+   "Label": "Treatment/Toner",
+   "Brand": "SOMETHINC",
+   "Product Name": "Glow Maker AHA BHA PHA Clarifying Treatment Toner 100 ml",
+   "Price": "Rp119,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.beautyhaul.com/product/detail/glow-maker-aha-bha-pha-clarifying-treatment-toner"
+ },
+ {
+   "Id": 25,
+   "Label": "Treatment/Essence",
+   "Brand": "LACOCO",
+   "Product Name": "Dark Spots Essence",
+   "Price": "Rp220,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/essence/24697-dark-spot-essence"
+ },
+ {
+   "Id": 26,
+   "Label": "Treatment/Essence",
+   "Brand": "HADA LABO",
+   "Product Name": "Shirojyun Ultimate White Essence 30 gr",
+   "Price": "Rp161,280",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/face-serum/56131-shirojyun-ultimate-white-essence"
+ },
+ {
+   "Id": 27,
+   "Label": "Treatment/Essence",
+   "Brand": "COSRX",
+   "Product Name": "Advanced Snail Mucin 96 Power Essence",
+   "Price": "Rp275,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/essence/11023-advanced-snail-mucin-96-power-essence"
+ },
+ {
+   "Id": 28,
+   "Label": "Treatment/Serum",
+   "Brand": "SOMETHINC",
+   "Product Name": "5% Niacinamide + Moisture Sabi Beet Serum 40 ml",
+   "Price": "Rp149,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.beautyhaul.com/product/detail/5-niacinamide-moisture-sabi-beet-serum"
+ },
+ {
+   "Id": 29,
+   "Label": "Treatment/Serum",
+   "Brand": "DEAR KLAIRS",
+   "Product Name": "Freshly Juiced Vitamin Drop 35 ml",
+   "Price": "Rp360,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/face-serum/9656-freshly-juiced-vitamin-drop"
+ },
+ {
+   "Id": 30,
+   "Label": "Treatment/Serum",
+   "Brand": "SOMETHINC",
+   "Product Name": "Dark Spot Reducer Ampoule 20 ml",
+   "Price": "Rp129,000",
+   "Tags": "Dark Spots",
+   "Links": "https://www.beautyhaul.com/product/detail/dark-spot-reducer-ampoule"
+ },
+ {
+   "Id": 31,
+   "Label": "Face Mask",
+   "Brand": "MEDIHEAL",
+   "Product Name": "THE I.P.I Brightening Ampoule Mask",
+   "Price": "Rp29,900",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/sheet-mask/9037-ipi-lightmax-ampoule-mask-ex?gclid=Cj0KCQjwmtGjBhDhARIsAEqfDEefxPwixtOXGegxaUEGY2GYn9fCa5KuA1kVFudILdWmVcIaYDpCT9EaAlFWEALw_wcB"
+ },
+ {
+   "Id": 32,
+   "Label": "Face Mask",
+   "Brand": "MEDIHEAL",
+   "Product Name": "Vita Essential Mask",
+   "Price": "Rp29,900",
+   "Tags": "Dark Spots",
+   "Links": "https://www.sociolla.com/sheet-mask/3966-vita-lightbeam-essential-mask?gclid=Cj0KCQjwmtGjBhDhARIsAEqfDEd2Ew7iXflYOTerd1FhXDTj2xjZOKdYSRW7Q-CrawYVkD5spZl6l0EaAnu5EALw_wcB"
+ },
+ {
+   "Id": 33,
+   "Label": "Treatment/Toner",
+   "Brand": "AVOSKIN",
+   "Product Name": "YOUR SKIN BAE Toner Ceramide LC S-20 1% + Mugwort + Cica 100 ml",
+   "Price": "Rp17,650",
+   "Tags": "Wrinkles",
+   "Links": "https://www.sociolla.com/toner/58785-your-skin-bae-ceramide-lc-s-20-1-mugwort-cica"
+ },
+ {
+   "Id": 34,
+   "Label": "Treatment/Toner",
+   "Brand": "AVOSKIN",
+   "Product Name": "Miraculous Retinol Toner 20 ml",
+   "Price": "Rp121,000",
+   "Tags": "Wrinkles",
+   "Links": "https://www.sociolla.com/toner/24325-miraculous-retinol-toner?size=size_:_20ml"
+ },
+ {
+   "Id": 35,
+   "Label": "Treatment/Serum",
+   "Brand": "DEAR KLAIRS",
+   "Product Name": "Freshly Juiced Vitamin Drop 35 ml",
+   "Price": "Rp360,000",
+   "Tags": "Wrinkles",
+   "Links": "https://www.sociolla.com/face-serum/9656-freshly-juiced-vitamin-drop"
+ },
+ {
+   "Id": 36,
+   "Label": "Treatment/Serum",
+   "Brand": "SAFI",
+   "Product Name": "Age Defy Concentrated Serum 20 ml",
+   "Price": "Rp146,900",
+   "Tags": "Wrinkles",
+   "Links": "https://www.sociolla.com/face-serum/12717-age-defy-concentrated-serum"
+ },
+ {
+   "Id": 37,
+   "Label": "Treatment/Serum",
+   "Brand": "WHITELAB",
+   "Product Name": "C-Dose+ Brightening Serum",
+   "Price": "Rp88,500",
+   "Tags": "Wrinkles",
+   "Links": "https://www.sociolla.com/face-serum/61193-c-dose-brightening-serum"
+ },
+ {
+   "Id": 38,
+   "Label": "Cleanser",
+   "Brand": "BIODERMA",
+   "Product Name": "Sensibio H2O Micellar Water 250 ml",
+   "Price": "Rp315,000",
+   "Tags": "Normal Skin",
+   "Links": "https://www.sociolla.com/makeup-remover/7958-sensibio-h2o-micellar-water?size=250_ml"
+ },
+ {
+   "Id": 39,
+   "Label": "Facial Wash",
+   "Brand": "CETAPHIL",
+   "Product Name": "Gentle Skin Cleanser 125 ml",
+   "Price": "Rp134,213",
+   "Tags": "Normal Skin",
+   "Links": "https://www.sociolla.com/face-wash/7914-gentle-skin-cleanser?size=125_ml"
+ },
+ {
+   "Id": 40,
+   "Label": "Facial Wash",
+   "Brand": "COSRX",
+   "Product Name": "Low pH Good Morning Cleanser 150 ml",
+   "Price": "Rp155,000",
+   "Tags": "Normal Skin",
+   "Links": "https://www.sociolla.com/cleansing-gel/9205-low-ph-good-morning-cleanser?size=150_ml"
+ },
+ {
+   "Id": 41,
+   "Label": "Moisturizer",
+   "Brand": "SKINTIFIC",
+   "Product Name": "5X Ceramide Barrier Repair Moisturizer Gel 80 ml",
+   "Price": "Rp332,890",
+   "Tags": "Normal Skin",
+   "Links": "https://www.sociolla.com/face-gel/68369-5x-ceramide-barrier-repair-moisturizer-gel?size=80_ml"
+ },
+ {
+   "Id": 42,
+   "Label": "Moisturizer",
+   "Brand": "SOMETHINC",
+   "Product Name": "Ceramic Skin Saviour Moisturizer Gel 50 ml",
+   "Price": "Rp299,000",
+   "Tags": "Normal Skin",
+   "Links": "https://www.beautyhaul.com/product/detail/reformulated-3-ceramic-skin-saviour-moisturizer-gel"
+ },
+ {
+   "Id": 43,
+   "Label": "Sun Care",
+   "Brand": "EMINA",
+   "Product Name": "Sun Battle SPF 30 PA+++ 60 ml",
+   "Price": "Rp32,500",
+   "Tags": "Normal Skin",
+   "Links": "https://www.sociolla.com/sunscreen/3587-sun-protection-spf-30"
+ },
+ {
+   "Id": 44,
+   "Label": "Sun Care",
+   "Brand": "COSRX",
+   "Product Name": "Aloe Soothing Sun Cream SPF 50+ PA+++ 50 ml",
+   "Price": "Rp199,900",
+   "Tags": "Normal Skin",
+   "Links": "https://www.sociolla.com/sunscreen/12094-aloe-soothing-sun-cream-spf-50-pa?size=50_ml&gclid=CjwKCAjwvdajBhBEEiwAeMh1U2rUKyalZBeVaBEfD-WbaCWiM-oNeTFxhlS9_cq8PAOhMjmHMk7fDRoCMFAQAvD_BwE"
+ },
+ {
+   "Id": 45,
+   "Label": "Cleanser",
+   "Brand": "DEAR KLAIRS",
+   "Product Name": "Gentle Black Fresh Cleansing Oil 150 ml",
+   "Price": "Rp345,000",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/cleansing-oil/59302-gentle-black-fresh-cleansing-oil"
+ },
+ {
+   "Id": 46,
+   "Label": "Facial Wash",
+   "Brand": "CETAPHIL",
+   "Product Name": "Oily Skin Cleanser 125ml",
+   "Price": "Rp255,168",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/product/7926-oily-skin-cleanser"
+ },
+ {
+   "Id": 47,
+   "Label": "Facial Wash",
+   "Brand": "LA ROCHE POSAY",
+   "Product Name": "Effaclar Foaming Gel Cleanser 200ml",
+   "Price": "Rp301,000",
+   "Tags": "Oily Skin",
+   "Links": "https://www.watsons.co.id/id/effaclar-foaming-gel-cleanser-200ml-facial-wash-kulit-jerawat-berminyak-200ml/p/BP_23386?gclid=CjwKCAjwvdajBhBEEiwAeMh1U5FJXJd83IhNoDI-Ll_ZqGfdp11D_kJtUVv6umW9FE-wOfnEAHBUlBoCmmMQAvD_BwE"
+ },
+ {
+   "Id": 48,
+   "Label": "Facial Wash",
+   "Brand": "NEUTROGENA ",
+   "Product Name": "Oil-Free Acne Wash 175 ml",
+   "Price": "Rp168,500",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/face-wash/32316-oil-free-acne-wash?size=175_ml&gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6eccg9CbD4CX4zijTlN9G4Ne-bh3c3D6KRf05kIJ6W0-O0rsioF34kaAuljEALw_wcB"
+ },
+ {
+   "Id": 49,
+   "Label": "Moisturizer",
+   "Brand": "AVOSKIN",
+   "Product Name": "YSB Glow Concentrate Treatment 1% Tranexamic Acid + Multi Probiome + Pineapple 45 ml",
+   "Price": "Rp298,600",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/face-cream-and-lotion/62677-ysb-glow-concentrate-treatment-1-tranexamic-acid-multi-probiome-pineapple?size=45_ml"
+ },
+ {
+   "Id": 50,
+   "Label": "Moisturizer",
+   "Brand": "SUKIN",
+   "Product Name": "Blemish Control Oil Free Moisturizer",
+   "Price": "Rp209,000",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/face-cream-lotion/33904-blemish-control-oil-free-moisturiser"
+ },
+ {
+   "Id": 51,
+   "Label": "Sun Care",
+   "Brand": "AZARINE",
+   "Product Name": "Hydrashoothe Sunscreen Gel Spf45+++ 50 ml",
+   "Price": "Rp65,000",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/sunscreen/53824-hydrashoothe-sunscreen-gel-spf45?size=50_ml&gclid=Cj0KCQjw4NujBhC5ARIsAF4Iv6dvRXvwGGDlOOPmnnvZt55XJIqEW3kxth_F9SCdh5l6r3nTIE_3_J8aAkYtEALw_wcB"
+ },
+ {
+   "Id": 52,
+   "Label": "Sun Care",
+   "Brand": "NIVEA",
+   "Product Name": "Sun Face Protection Serum Spf 50+ Pa +++ - Oil Control",
+   "Price": "Rp70,200",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/sunscreen/12703-sun-face-protection-serum-spf-50-pa-oil-control"
+ },
+ {
+   "Id": 53,
+   "Label": "Sun Care",
+   "Brand": "VOTRE PEAU",
+   "Product Name": "Facial Sun Shield SPF 50 30 ml",
+   "Price": "Rp265,000",
+   "Tags": "Oily Skin",
+   "Links": "https://www.sociolla.com/sunscreen/9998-facial-sun-shield-spf-50"
+ },
+ {
+   "Id": 54,
+   "Label": "Cleanser",
+   "Brand": "HEIMISH",
+   "Product Name": "All Clean Balm 120 gr",
+   "Price": "Rp330,000",
+   "Tags": "dry",
+   "Links": "https://www.sociolla.com/cleansing-balm/11831-all-clean-balm?size=120_gr&gclid=CjwKCAjwvdajBhBEEiwAeMh1U0Y9GjmPoKx9CSVfluJgbQmVjZhLGnrYU6yHPSeQdAW_rdVo1e3crBoC6XsQAvD_BwE"
+ },
+ {
+   "Id": 55,
+   "Label": "Cleanser",
+   "Brand": "DHC",
+   "Product Name": "Deep Cleansing Oil 70 ml",
+   "Price": "Rp159,000",
+   "Tags": "dry",
+   "Links": "https://www.sociolla.com/cleansing-oil/13141-deep-cleansing-oil?size=70_ml&gclid=CjwKCAjwvdajBhBEEiwAeMh1U4aLgdrkKXeMj_gwkoOIJMUhU-z_xHzz3UJItr3Hlu7vYoWtLV09hBoCLZIQAvD_BwE"
+ },
+ {
+   "Id": 56,
+   "Label": "Facial Wash",
+   "Brand": "AVENE",
+   "Product Name": "Eau Thermale Avène Tolerance Extremely Gentle Cleanser 200ml",
+   "Price": "Rp375,000",
+   "Tags": "dry",
+   "Links": "https://shopee.co.id/product/30736001/20488306374?gclid=CjwKCAjwvdajBhBEEiwAeMh1U3sPoAQXqzjIOvxZMAvAmRPPWGVkJbDbv6lMTacGWpr5JfFyA3-sMBoChrIQAvD_BwE"
+ },
+ {
+   "Id": 57,
+   "Label": "Facial Wash",
+   "Brand": "SOMETHINC",
+   "Product Name": "Low pH Gentle Jelly Cleanser 100ml",
+   "Price": "Rp99,000",
+   "Tags": "dry",
+   "Links": "https://www.beautyhaul.com/product/detail/low-ph-gentle-jelly-cleanser"
+ },
+ {
+   "Id": 58,
+   "Label": "Facial Wash",
+   "Brand": "AVOSKIN",
+   "Product Name": "Natural Sublime Facial Cleanser",
+   "Price": "Rp119,000",
+   "Tags": "dry",
+   "Links": "https://www.beautyhaul.com/product/detail/natural-sublime-facial-cleanser"
+ },
+ {
+   "Id": 59,
+   "Label": "Moisturizer",
+   "Brand": "NEUTROGENA",
+   "Product Name": "Hydro Boost Hyaluronic Acid Water Gel",
+   "Price": "Rp271,500",
+   "Tags": "dry",
+   "Links": "https://www.sociolla.com/face-gel/45662-hydro-boost-water-gel"
+ },
+ {
+   "Id": 60,
+   "Label": "Sun Care",
+   "Brand": "NEUTROGENA",
+   "Product Name": "Ultra Sheer Dry -Touch Sunscreen SPF 50+",
+   "Price": "Rp201,500",
+   "Tags": "dry",
+   "Links": "https://www.sociolla.com/sunscreen/45122-ultra-sheer-dry-touch-sunscreen-spf-50"
+ },
+ {
+   "Id": 61,
+   "Label": "Sun Care",
+   "Brand": "BASE",
+   "Product Name": "Ultra Soothe Natural Sunscreen SPF 50 PA+++",
+   "Price": "Rp169,000",
+   "Tags": "dry",
+   "Links": "https://www.sociolla.com/sunscreen/61863-ultra-soothe-natural-sunscreen-spf-50-pa"
+ },
+ {
+   "Id": 62,
+   "Label": "Cleanser",
+   "Brand": "DEAR KLAIRS",
+   "Product Name": "Gentle Black Fresh Cleansing Oil 30 ml",
+   "Price": "Rp115,000",
+   "Tags": "combination",
+   "Links": "https://www.sociolla.com/cleansing-oil/59302-gentle-black-fresh-cleansing-oil?size=30ml"
+ },
+ {
+   "Id": 63,
+   "Label": "Cleanser",
+   "Brand": "BIODERMA",
+   "Product Name": "Sebium H2O Micellar Water 250 ml",
+   "Price": "Rp315,000",
+   "Tags": "combination",
+   "Links": "https://www.sociolla.com/makeup-remover/7853-sebium-h2o-micellar-water?size=250_ml"
+ },
+ {
+   "Id": 64,
+   "Label": "Facial Wash",
+   "Brand": "POND'S",
+   "Product Name": "Acne Solution Facial Foam",
+   "Price": "Rp26,700",
+   "Tags": "combination",
+   "Links": "https://www.sociolla.com/face-wash/32702-acne-solution-facial-foam"
+ },
+ {
+   "Id": 65,
+   "Label": "Sun Care",
+   "Brand": "CARASUN",
+   "Product Name": "Carasun Solar Smart UV Protector SPF 45 PA++++ Sunscreen",
+   "Price": "Rp70,900",
+   "Tags": "combination",
+   "Links": "https://www.sociolla.com/sunscreen/51690-solar-smart-uv-protector?size=30_ml"
+ },
+ {
+   "Id": 66,
+   "Label": "Sun Care",
+   "Brand": "AZARINE",
+   "Product Name": "Hydrashoothe Sunscreen Gel Spf45+++",
+   "Price": "Rp65,000",
+   "Tags": "combination",
+   "Links": "https://www.sociolla.com/sunscreen/53824-hydrashoothe-sunscreen-gel-spf45"
+ },
+ {
+   "Id": 67,
+   "Label": "Sun Care",
+   "Brand": "BIORE",
+   "Product Name": "Biore UV Aqua Rich Watery Essence SPF 50+/PA+++",
+   "Price": "Rp122,800",
+   "Tags": "combination",
+   "Links": "https://www.sociolla.com/sunscreen/8578-biore-uv-aqua-rich-watery-essence-spf-50-pa"
+ }
+]
