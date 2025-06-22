@@ -84,11 +84,17 @@ fetch('skincare_product/treatment.json')
 // Fungsi untuk mencari gambar produk dengan berbagai ekstensi
 function findProductImage(id) {
     const exts = ['png', 'jpg', 'webp'];
+    // Cek semua ekstensi, gunakan yang pertama kali ditemukan (gambar tampil)
     for (let ext of exts) {
         let path = `skincare_product/gambar_produk/${id}.${ext}`;
-        if (imageExists(path)) return path;
-        // mengulangi jika tidak ada
+        // Buat elemen gambar untuk cek apakah bisa dimuat
+        let img = new Image();
+        img.src = path;
+        // Jika gambar berhasil dimuat, kembalikan path
+        if (img.complete) return path;
     }
+    // Jika tidak ada yang ditemukan, fallback ke gambar default
+    return 'skincare_product/gambar_produk/default.png';
 }
 
 // Cek apakah gambar ada (asynchronous workaround)
